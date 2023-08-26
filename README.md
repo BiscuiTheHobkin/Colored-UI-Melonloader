@@ -22,3 +22,5 @@ Replaces the default VRChat ui color with Custom color !
    Will be more soon x3 !
  
    - Enjoy
+
+thx for the loading audio to : https://github.com/fueltoguy/vrc-quest-loading-music
